@@ -3,7 +3,7 @@
 >
   <div class="container mx-auto">
     <div class="max-w-sm md:max-w-5xl mx-auto">
-      <h1 class="text-9xl text-center">Welcome to Clarkdale</h1>
+      <h1 class="text-4xl sm:text-9xl text-center">Welcome to Clarkdale</h1>
     </div>
   </div>
 </div>
